@@ -1,5 +1,3 @@
-# -Laravel
-Sistema Acadêmico CRUD de Produtos e Fornecedores
 # Sistema de Gestão de Produtos e Fornecedores
 
 Este é um projeto acadêmico desenvolvido em **Laravel** para o gerenciamento de um cadastro de produtos e seus respectivos fornecedores. O sistema permite realizar todas as operações de CRUD (Criar, Ler, Atualizar e Excluir) para ambas as entidades, mantendo a integridade referencial entre elas.
